@@ -1,0 +1,37 @@
+@charset"utf-8";
+body {
+        margin: 0;
+        padding: 0;
+        line-height:2;
+        background: url("../img/gami.jpg") no-repeat center center;
+        background-size: 1500px;
+        background-repeat: repeat-y;
+}
+h2.class{
+position:relative;
+margin-top:-30px;
+margin-left:50px;
+}
+input.nametext{
+position:absolute;
+margin-top:10px;
+margin-left:-30px;
+}
+h2.age{
+margin-top:-10px;
+}
+input.agetext{
+margin-top:-20px;
+}
+h2.come{
+margin-top:-0px;
+}
+textarea.cometext{
+margin-top:-20px;
+}
+#form{
+margin-top:230px;
+}
+
+
+
